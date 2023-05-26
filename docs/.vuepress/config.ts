@@ -4,8 +4,8 @@ import { searchPlugin } from "@vuepress/plugin-search";
 import { getDirname, path } from "@vuepress/utils";
 import { glob } from "glob";
 
-let songFiles = glob
-  .sync("docs/songs/**/*.md")
+let protokollFiles = glob
+  .sync("docs/protokolle/**/*.md")
   .map((f) => f.replace("docs", "").replace("index.md", ""));
 
 import { description } from "../../package.json";

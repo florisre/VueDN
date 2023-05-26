@@ -1,12 +1,15 @@
 ---
 home: true
-title: Vuepress-Decap-Netlify
-tagline: A Vuepress boilerplate integrated with Decap CMS hosted on Netlify
-heroText: Vuepress-Decap-Netlify
-heroImage: hero.png
+title: StuRa
+tagline:  Willkommen auf der offiziellen Seite Deiner Studierendenvertretung 
+heroText: StuRa Uni Freiburg
+heroImage: logo.png
 actions:
-  - text: Set up this template
-    link: /template
+  - text: Sitzungen
+    link: /sitzungen
+    type: primary
+  - text: Nächste Sitzung
+    link: /upcoming
     type: primary
 ---
 

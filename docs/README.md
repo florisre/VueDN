@@ -3,7 +3,7 @@ home: true
 title: StuRa
 tagline:  Willkommen auf der offiziellen Seite Deiner Studierendenvertretung 
 heroText: StuRa Uni Freiburg
-heroImage: logo.png
+heroImage: LogoSchwarz.png
 lang: de-DE
 
 actions:

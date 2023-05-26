@@ -8,7 +8,7 @@ lang: de-DE
 
 actions:
   - text: Protokolle
-    link: /protokolle
+    link: /protokolle/
     type: primary
   - text: Nächste Sitzung
     link: /upcoming
